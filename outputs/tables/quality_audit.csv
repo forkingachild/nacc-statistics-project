@@ -1,0 +1,12 @@
+issue,count,decision
+uds ordinary nan (all 179 numeric variables),0,raw audit only; absence of nan does not mean absence of missing codes
+mri ordinary nan (124 measurements + diagnosis),0,no ordinary nans observed
+educ code 99 (unknown),2,mark missing in education summaries
+mocatots code 88 or outside 0-30,9,not a valid total score; report separately
+mocatots fractional values,249,flag possible imputation/transformation; do not use as primary outcome
+naccbmi >=100 (888.8 sentinel observed),131,mark missing for bmi summaries; not a real bmi
+mri gray volume <=0 in any region,2,flag; use nonpositive as missing for any preselected derived primary volume
+left entorhinal gray volume <=0,1,missing for the bilateral-volume composite
+"right entorhinal gray volume <100mm3 (suspicious, not proven invalid)",3,retain positive values; flag for original-scan qc review
+cdrsum unequal to sum of six cdr boxes,0,no discrepancy observed
+diagnosis code disagreement across uds/mri,0,no disagreement observed

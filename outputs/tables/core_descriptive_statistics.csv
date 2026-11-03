@@ -1,0 +1,11 @@
+variable,label,modality,n,missing,mean,median,sd,min,q1,q3,iqr,max,iqr_flags,lower_fence,upper_fence
+NACCAGE_clean,age (years),uds,1237,0,68.1900,68.0000,8.0400,41.0000,63.0000,74.0000,11.0000,91.0000,13,46.5000,90.5000
+EDUC_clean,education (years),uds,1235,2,16.2600,16.0000,2.7200,0.0000,14.0000,18.0000,4.0000,25.0000,12,8.0000,24.0000
+CDRSUM_clean,cdr sum of boxes,uds,1237,0,0.8200,0.0000,1.7200,0.0000,0.0000,1.0000,1.0000,15.0000,115,-1.5000,2.5000
+MOCATOTS_clean,moca valid integer only (secondary audit),uds,984,253,24.0300,25.0000,4.7400,0.0000,22.0000,27.0000,5.0000,30.0000,48,14.5000,34.5000
+LH_ENTORHINAL_GVOL_clean,left entorhinal volume (mm3),mri,1236,1,1555.5300,1545.0000,411.3200,211.0000,1295.7500,1786.0000,490.2500,4265.0000,31,560.3800,2521.3800
+RH_ENTORHINAL_GVOL_clean,right entorhinal volume (mm3),mri,1237,0,1525.4000,1513.0000,405.4400,6.0000,1289.0000,1748.0000,459.0000,5334.0000,35,600.5000,2436.5000
+LH_ENTORHINAL_AVGTH_clean,left entorhinal thickness (mm),mri,1237,0,2.9700,3.0200,0.3800,0.8800,2.7600,3.2300,0.4700,3.9800,28,2.0700,3.9300
+RH_ENTORHINAL_AVGTH_clean,right entorhinal thickness (mm),mri,1237,0,3.0600,3.1000,0.4000,0.7300,2.8500,3.3200,0.4700,3.9700,30,2.1500,4.0200
+entorhinal_volume,bilateral entorhinal volume (mm3),mri derived,1236,1,3081.8800,3073.5000,724.1000,366.0000,2628.2500,3492.5000,864.2500,8036.0000,22,1331.8800,4788.8800
+entorhinal_thickness,bilateral entorhinal mean thickness (mm),mri derived,1237,0,3.0100,3.0600,0.3600,1.2100,2.8000,3.2500,0.4500,3.9200,22,2.1300,3.9200

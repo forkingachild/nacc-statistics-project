@@ -1,0 +1,307 @@
+modality,variable,domain,type_note,units,rows,ordinary_na,distinct_values
+uds,NACCID,identifier,id (nominal),not applicable,1237,0,1237
+uds,SEX,demographic / participant characteristics,categorical or numerical - verify dictionary,variable-specific,1237,0,2
+uds,HISPANIC,demographic / participant characteristics,categorical or numerical - verify dictionary,variable-specific,1237,0,3
+uds,HISPOR,demographic / participant characteristics,categorical or numerical - verify dictionary,variable-specific,1237,0,9
+uds,RACE,demographic / participant characteristics,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,PRIMLANG,demographic / participant characteristics,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,EDUC,demographic / participant characteristics,categorical or numerical - verify dictionary,variable-specific,1237,0,23
+uds,MARISTAT,demographic / participant characteristics,categorical or numerical - verify dictionary,variable-specific,1237,0,7
+uds,NACCLIVS,demographic / participant characteristics,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,INDEPEND,demographic / participant characteristics,categorical or numerical - verify dictionary,variable-specific,1237,0,5
+uds,RESIDENC,demographic / participant characteristics,categorical or numerical - verify dictionary,variable-specific,1237,0,4
+uds,NACCNIHR,demographic / participant characteristics,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,NACCAGE,demographic / participant characteristics,categorical or numerical - verify dictionary,variable-specific,1237,0,48
+uds,NACCFAM,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,7
+uds,NACCMOM,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,5
+uds,NACCDAD,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,4
+uds,NACCAM,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,7
+uds,NACCAMS,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,10
+uds,NACCFM,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,NACCFMS,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,2
+uds,NACCOM,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,NACCOMS,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,1
+uds,NACCFADM,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,2
+uds,NACCFFTD,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,2
+uds,ANYMEDS,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,3
+uds,TOBAC30,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,4
+uds,TOBAC100,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,8
+uds,SMOKYRS,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,71
+uds,PACKSPER,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,17
+uds,QUITSMOK,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,79
+uds,CVHATT,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,7
+uds,CVAFIB,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,CVANGIO,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,CVBYPASS,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,5
+uds,CVPACDEF,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,2
+uds,CVCHF,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,3
+uds,CVOTHR,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,CBSTROKE,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,CBTIA,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,5
+uds,SEIZURES,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,4
+uds,NACCTBI,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,TBI,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,12
+uds,TBIBRIEF,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,9
+uds,TBIEXTEN,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,8
+uds,TBIWOLOS,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,10
+uds,DIABETES,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,8
+uds,DIABTYPE,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,11
+uds,HYPERTEN,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,10
+uds,HYPERCHO,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,10
+uds,B12DEF,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,8
+uds,THYROID,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,8
+uds,ARTHRIT,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,12
+uds,ARTHTYPE,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,22
+uds,ARTHUPEX,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,10
+uds,ARTHLOEX,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,10
+uds,ARTHSPIN,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,10
+uds,ARTHUNK,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,7
+uds,INCONTU,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,INCONTF,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,APNEA,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,12
+uds,RBD,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,11
+uds,INSOMN,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,8
+uds,OTHSLEEP,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,7
+uds,ALCOHOL,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,ABUSOTHR,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,4
+uds,PTSD,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,8
+uds,BIPOLAR,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,4
+uds,SCHIZ,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,DEP2YRS,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,DEPOTHR,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,8
+uds,ANXIETY,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,11
+uds,OCD,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,7
+uds,NPSYDEV,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,8
+uds,PSYCDIS,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,5
+uds,NACCAAAS,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,2
+uds,NACCAANX,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,3
+uds,NACCAC,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,3
+uds,NACCACEI,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,2
+uds,NACCADEP,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,2
+uds,NACCAHTN,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,4
+uds,NACCAMD,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,25
+uds,NACCANGI,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,3
+uds,NACCAPSY,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,2
+uds,NACCBETA,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,2
+uds,NACCCCBS,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,4
+uds,NACCDBMD,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,2
+uds,NACCDIUR,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,3
+uds,NACCEMD,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,2
+uds,NACCEPMD,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,2
+uds,NACCHTNC,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,2
+uds,NACCLIPL,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,3
+uds,NACCNSD,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,3
+uds,NACCPDMD,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,3
+uds,NACCVASD,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,2
+uds,HEIGHT,physical assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,170
+uds,WEIGHT,physical assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,179
+uds,BPSYS,physical assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,137
+uds,BPDIAS,physical assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,102
+uds,HRATE,physical assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,95
+uds,VISION,physical assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,VISCORR,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,VISWCORR,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,10
+uds,HEARING,physical assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,7
+uds,HEARAID,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,HEARWAID,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,7
+uds,NACCBMI,physical assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,239
+uds,NACCNREX,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,5
+uds,NORMEXAM,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,10
+uds,NPIQINF,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,10
+uds,DEL,neuropsychiatric / psychological,categorical or numerical - verify dictionary,variable-specific,1237,0,4
+uds,DELSEV,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,5
+uds,HALL,neuropsychiatric / psychological,categorical or numerical - verify dictionary,variable-specific,1237,0,3
+uds,HALLSEV,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,4
+uds,AGIT,neuropsychiatric / psychological,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,AGITSEV,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,13
+uds,DEPD,neuropsychiatric / psychological,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,DEPDSEV,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,13
+uds,ANX,neuropsychiatric / psychological,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,ANXSEV,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,10
+uds,ELAT,neuropsychiatric / psychological,categorical or numerical - verify dictionary,variable-specific,1237,0,4
+uds,ELATSEV,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,5
+uds,APA,neuropsychiatric / psychological,categorical or numerical - verify dictionary,variable-specific,1237,0,5
+uds,APASEV,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,7
+uds,DISN,neuropsychiatric / psychological,categorical or numerical - verify dictionary,variable-specific,1237,0,5
+uds,DISNSEV,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,8
+uds,IRR,neuropsychiatric / psychological,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,IRRSEV,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,13
+uds,MOT,neuropsychiatric / psychological,categorical or numerical - verify dictionary,variable-specific,1237,0,3
+uds,MOTSEV,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,4
+uds,NITE,neuropsychiatric / psychological,categorical or numerical - verify dictionary,variable-specific,1237,0,5
+uds,NITESEV,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,8
+uds,APP,neuropsychiatric / psychological,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,APPSEV,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,9
+uds,NOGDS,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,3
+uds,SATIS,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,DROPACT,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,8
+uds,EMPTY,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,BORED,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,7
+uds,SPIRITS,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,AFRAID,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,7
+uds,HAPPY,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,HELPLESS,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,8
+uds,STAYHOME,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,6
+uds,MEMPROB,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,7
+uds,WONDRFUL,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,7
+uds,WRTHLESS,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,7
+uds,ENERGY,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,8
+uds,HOPELESS,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,5
+uds,BETTER,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,5
+uds,NACCGDS,neuropsychiatric / psychological,categorical or numerical - verify dictionary,variable-specific,1237,0,23
+uds,BILLS,functional assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,13
+uds,TAXES,functional assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,15
+uds,SHOPPING,functional assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,10
+uds,GAMES,functional assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,12
+uds,STOVE,functional assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,8
+uds,MEALPREP,functional assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,11
+uds,EVENTS,functional assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,9
+uds,PAYATTN,functional assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,10
+uds,REMDATES,functional assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,11
+uds,TRAVEL,functional assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,9
+uds,DECSUB,cognitive / clinical assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,2
+uds,ANIMALS,cognitive / clinical assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,45
+uds,VEG,cognitive / clinical assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,35
+uds,TRAILA,cognitive / clinical assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,131
+uds,TRAILARR,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,16
+uds,TRAILALI,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,19
+uds,TRAILB,cognitive / clinical assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,218
+uds,TRAILBRR,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,31
+uds,TRAILBLI,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,38
+uds,MOCATOTS,cognitive / clinical assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,72
+uds,NACCAPOE,medical history / medications / other uds,categorical or numerical - verify dictionary,variable-specific,1237,0,7
+uds,NACCUDSD,clinical status,categorical nominal,category,1237,0,4
+uds,MEMORY,cognitive / clinical assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,5
+uds,ORIENT,cognitive / clinical assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,4
+uds,JUDGMENT,cognitive / clinical assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,5
+uds,COMMUN,cognitive / clinical assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,4
+uds,HOMEHOBB,cognitive / clinical assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,5
+uds,PERSCARE,cognitive / clinical assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,4
+uds,CDRSUM,cognitive / clinical assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,22
+uds,CDRGLOB,cognitive / clinical assessment,categorical or numerical - verify dictionary,variable-specific,1237,0,4
+mri,NACCID,identifier,id (nominal),not applicable,1237,0,1237
+mri,LH_CAUDALANTERIORCINGULATE_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,907
+mri,RH_CAUDALANTERIORCINGULATE_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,857
+mri,LH_CAUDALANTERIORCINGULATE_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,542
+mri,RH_CAUDALANTERIORCINGULATE_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,594
+mri,LH_CAUDALMIDDLEFRONTAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1057
+mri,RH_CAUDALMIDDLEFRONTAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1059
+mri,LH_CAUDALMIDDLEFRONTAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,494
+mri,RH_CAUDALMIDDLEFRONTAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,478
+mri,LH_CUNEUS_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,981
+mri,RH_CUNEUS_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,968
+mri,LH_CUNEUS_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,477
+mri,RH_CUNEUS_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,478
+mri,LH_ENTORHINAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,827
+mri,RH_ENTORHINAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,817
+mri,LH_ENTORHINAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,806
+mri,RH_ENTORHINAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,803
+mri,LH_FUSIFORM_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1078
+mri,RH_FUSIFORM_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1090
+mri,LH_FUSIFORM_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,497
+mri,RH_FUSIFORM_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,529
+mri,LH_INFERIORPARIETAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1121
+mri,RH_INFERIORPARIETAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1146
+mri,LH_INFERIORPARIETAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,501
+mri,RH_INFERIORPARIETAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,497
+mri,LH_INFERIORTEMPORAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1139
+mri,RH_INFERIORTEMPORAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1130
+mri,LH_INFERIORTEMPORAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,549
+mri,RH_INFERIORTEMPORAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,537
+mri,LH_ISTHMUSCINGULATE_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,827
+mri,RH_ISTHMUSCINGULATE_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,813
+mri,LH_ISTHMUSCINGULATE_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,570
+mri,RH_ISTHMUSCINGULATE_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,579
+mri,LH_LATERALOCCIPITAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1110
+mri,RH_LATERALOCCIPITAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1141
+mri,LH_LATERALOCCIPITAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,481
+mri,RH_LATERALOCCIPITAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,488
+mri,LH_LATERALORBITOFRONTAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1059
+mri,RH_LATERALORBITOFRONTAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1045
+mri,LH_LATERALORBITOFRONTAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,496
+mri,RH_LATERALORBITOFRONTAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,515
+mri,LH_LINGUAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1061
+mri,RH_LINGUAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1056
+mri,LH_LINGUAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,468
+mri,RH_LINGUAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,482
+mri,LH_MEDIALORBITOFRONTAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,916
+mri,RH_MEDIALORBITOFRONTAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,921
+mri,LH_MEDIALORBITOFRONTAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,515
+mri,RH_MEDIALORBITOFRONTAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,550
+mri,LH_MIDDLETEMPORAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1123
+mri,RH_MIDDLETEMPORAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1129
+mri,LH_MIDDLETEMPORAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,515
+mri,RH_MIDDLETEMPORAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,504
+mri,LH_PARAHIPPOCAMPAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,804
+mri,RH_PARAHIPPOCAMPAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,749
+mri,LH_PARAHIPPOCAMPAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,739
+mri,RH_PARAHIPPOCAMPAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,678
+mri,LH_PARACENTRAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,914
+mri,RH_PARACENTRAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,920
+mri,LH_PARACENTRAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,520
+mri,RH_PARACENTRAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,524
+mri,LH_PARSOPERCULARIS_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,975
+mri,RH_PARSOPERCULARIS_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,978
+mri,LH_PARSOPERCULARIS_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,463
+mri,RH_PARSOPERCULARIS_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,457
+mri,LH_PARSORBITALIS_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,763
+mri,RH_PARSORBITALIS_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,787
+mri,LH_PARSORBITALIS_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,533
+mri,RH_PARSORBITALIS_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,552
+mri,LH_PARSTRIANGULARIS_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,955
+mri,RH_PARSTRIANGULARIS_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,958
+mri,LH_PARSTRIANGULARIS_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,448
+mri,RH_PARSTRIANGULARIS_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,477
+mri,LH_PERICALCARINE_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,878
+mri,RH_PERICALCARINE_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,920
+mri,LH_PERICALCARINE_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,549
+mri,RH_PERICALCARINE_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,570
+mri,LH_POSTCENTRAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1113
+mri,RH_POSTCENTRAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1091
+mri,LH_POSTCENTRAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,472
+mri,RH_POSTCENTRAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,491
+mri,LH_POSTERIORCINGULATE_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,873
+mri,RH_POSTERIORCINGULATE_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,879
+mri,LH_POSTERIORCINGULATE_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,482
+mri,RH_POSTERIORCINGULATE_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,471
+mri,LH_PRECENTRAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1111
+mri,RH_PRECENTRAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1103
+mri,LH_PRECENTRAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,528
+mri,RH_PRECENTRAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,502
+mri,LH_PRECUNEUS_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1094
+mri,RH_PRECUNEUS_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1087
+mri,LH_PRECUNEUS_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,482
+mri,RH_PRECUNEUS_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,468
+mri,LH_ROSTRALANTERIORCINGULATE_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,952
+mri,RH_ROSTRALANTERIORCINGULATE_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,900
+mri,LH_ROSTRALANTERIORCINGULATE_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,577
+mri,RH_ROSTRALANTERIORCINGULATE_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,604
+mri,LH_ROSTRALMIDDLEFRONTAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1096
+mri,RH_ROSTRALMIDDLEFRONTAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1135
+mri,LH_ROSTRALMIDDLEFRONTAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,445
+mri,RH_ROSTRALMIDDLEFRONTAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,462
+mri,LH_SUPERIORFRONTAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1148
+mri,RH_SUPERIORFRONTAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1163
+mri,LH_SUPERIORFRONTAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,469
+mri,RH_SUPERIORFRONTAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,455
+mri,LH_SUPERIORPARIETAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1109
+mri,RH_SUPERIORPARIETAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1125
+mri,LH_SUPERIORPARIETAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,503
+mri,RH_SUPERIORPARIETAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,504
+mri,LH_SUPERIORTEMPORAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1132
+mri,RH_SUPERIORTEMPORAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1117
+mri,LH_SUPERIORTEMPORAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,526
+mri,RH_SUPERIORTEMPORAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,524
+mri,LH_SUPRAMARGINAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1103
+mri,RH_SUPRAMARGINAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,1095
+mri,LH_SUPRAMARGINAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,483
+mri,RH_SUPRAMARGINAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,492
+mri,LH_TRANSVERSETEMPORAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,637
+mri,RH_TRANSVERSETEMPORAL_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,525
+mri,LH_TRANSVERSETEMPORAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,602
+mri,RH_TRANSVERSETEMPORAL_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,625
+mri,LH_INSULA_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,969
+mri,RH_INSULA_GVOL,mri regional gray volume,quantitative continuous (recorded discrete mm3),mm3,1237,0,983
+mri,LH_INSULA_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,571
+mri,RH_INSULA_AVGTH,mri average thickness,quantitative continuous,mm,1237,0,567
+mri,NACCUDSD,clinical status,categorical nominal,category,1237,0,4

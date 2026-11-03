@@ -1,0 +1,176 @@
+{
+  "source_archive_files": [
+    {
+      "name": "udslong_imputed.csv",
+      "sha256": "8bcd0180d1b593092f7b2f7777281f59c4a6e9c3b2b041b5d2a33ed13be55e63",
+      "bytes": 926382
+    },
+    {
+      "name": "mriscanclean.csv",
+      "sha256": "3a2b34f7902592705f75ce3ad4c4fab68880470f01e7b9eb9823a799dc092e72",
+      "bytes": 871269
+    },
+    {
+      "name": "combined_adjacency_matrix.csv",
+      "sha256": "f7a0ed04de23f8e2c91555376f839d0fcbcf9a20d24f4c294b76ef18bc470671",
+      "bytes": 10633
+    }
+  ],
+  "uds": {
+    "rows": 1237,
+    "columns": 180,
+    "unique_ids": 1237,
+    "duplicate_ids": 0,
+    "na_cells": 0
+  },
+  "mri": {
+    "rows": 1237,
+    "columns": 126,
+    "unique_ids": 1237,
+    "duplicate_ids": 0,
+    "na_cells": 0,
+    "gray_volume_features": 62,
+    "average_thickness_features": 62
+  },
+  "linkage": {
+    "shared_ids": 1237,
+    "uds_only": 0,
+    "mri_only": 0,
+    "final_n": 1237,
+    "diagnosis_agreement": true
+  },
+  "adjacency": {
+    "shape": [
+      62,
+      62
+    ],
+    "binary": true,
+    "symmetric": true,
+    "self_loops": 62,
+    "undirected_edges_excluding_self_loops": 232
+  },
+  "cognitive_groups": [
+    {
+      "code": 1,
+      "diagnosis": "normal cognition",
+      "n": 847,
+      "percent": 68.47
+    },
+    {
+      "code": 2,
+      "diagnosis": "impaired, not mci",
+      "n": 7,
+      "percent": 0.57
+    },
+    {
+      "code": 3,
+      "diagnosis": "mci",
+      "n": 252,
+      "percent": 20.37
+    },
+    {
+      "code": 4,
+      "diagnosis": "dementia",
+      "n": 131,
+      "percent": 10.59
+    }
+  ],
+  "core_missingness": {
+    "CDRSUM": 0,
+    "NACCAGE": 0,
+    "SEX": 0,
+    "EDUC": 2,
+    "MOCATOTS": 253,
+    "NACCBMI": 131,
+    "NACCUDSD": 0,
+    "LH_ENTORHINAL_GVOL": 1,
+    "RH_ENTORHINAL_GVOL": 0,
+    "LH_ENTORHINAL_AVGTH": 0,
+    "RH_ENTORHINAL_AVGTH": 0
+  },
+  "medians": {
+    "cdr": 0.0,
+    "volume": 3073.5,
+    "thickness": 3.06
+  },
+  "averages": {
+    "cdr": 0.82,
+    "volume": 3081.88,
+    "thickness": 3.01
+  },
+  "zero_cdr": {
+    "n": 757,
+    "fraction": 0.612
+  },
+  "moca_fractional": 249,
+  "raw_moca_over_30": 9,
+  "smallest_rh_entorhinal_volume": 6.0,
+  "selected_age": {
+    "n": 1237,
+    "missing": 0,
+    "mean": 68.19,
+    "median": 68.0,
+    "sd": 8.04,
+    "min": 41.0,
+    "q1": 63.0,
+    "q3": 74.0,
+    "iqr": 11.0,
+    "max": 91.0,
+    "iqr_flags": 13,
+    "lower_fence": 46.5,
+    "upper_fence": 90.5
+  },
+  "selected_cdr": {
+    "n": 1237,
+    "missing": 0,
+    "mean": 0.82,
+    "median": 0.0,
+    "sd": 1.72,
+    "min": 0.0,
+    "q1": 0.0,
+    "q3": 1.0,
+    "iqr": 1.0,
+    "max": 15.0,
+    "iqr_flags": 115,
+    "lower_fence": -1.5,
+    "upper_fence": 2.5
+  },
+  "selected_volume": {
+    "n": 1236,
+    "missing": 1,
+    "mean": 3081.88,
+    "median": 3073.5,
+    "sd": 724.1,
+    "min": 366.0,
+    "q1": 2628.25,
+    "q3": 3492.5,
+    "iqr": 864.25,
+    "max": 8036.0,
+    "iqr_flags": 22,
+    "lower_fence": 1331.88,
+    "upper_fence": 4788.88
+  },
+  "selected_thickness": {
+    "n": 1237,
+    "missing": 0,
+    "mean": 3.01,
+    "median": 3.06,
+    "sd": 0.36,
+    "min": 1.21,
+    "q1": 2.8,
+    "q3": 3.25,
+    "iqr": 0.45,
+    "max": 3.92,
+    "iqr_flags": 22,
+    "lower_fence": 2.13,
+    "upper_fence": 3.92
+  },
+  "limitations": [
+    "the original full uds cohort is unavailable so the scanned and unscanned groups cannot be compared.",
+    "source visit and mri dates are absent so the choice and timing of records cannot be verified.",
+    "the original missing values and imputation procedure are not available.",
+    "image quality flags and scanner details are unavailable.",
+    "the files do not include intracranial volume for volume adjustment.",
+    "Recruitment at Alzheimer's Disease Research Centers does not support population prevalence estimates."
+  ]
+}
