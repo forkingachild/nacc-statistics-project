@@ -5,7 +5,7 @@ this project looks at cdr cognitive severity and entorhinal brain measurements i
 ## how to run it
 
 1. install python 3.10 or newer and the packages in `requirements.txt`.
-2. extract the original `alzheimer(1).zip` on your own computer.
+2. extract the original `alzheimer.zip` on your own computer.
 3. put `udslong_imputed.csv` and `mriscanclean.csv` and `combined_adjacency_matrix.csv` in `data/raw/`.
 4. run the commands below from the project root.
 
